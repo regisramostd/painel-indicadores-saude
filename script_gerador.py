@@ -3,10 +3,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Carregar os dados
+# Loading Data
 df = pd.read_csv("indicadores_por_cidade.csv")
 
-# Redefinir o índice
+# Index
 df = df.set_index("Cidade").T
 
 # Plot
