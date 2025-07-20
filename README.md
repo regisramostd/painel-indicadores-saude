@@ -2,7 +2,7 @@
 Painel analítico com dados públicos de saúde coletiva.
 # Painel Analítico de Indicadores Populacionais de Saúde
 
-Este projeto apresenta um painel visual gerado a partir de dados simulados sobre prevalência de condições de saúde em diferentes cidades brasileiras. O objetivo é demonstrar como visualizações claras podem ajudar na definição de estratégias preventivas.
+Este projeto apresenta um painel visual simples gerado a partir de dados sobre prevalência de condições de saúde em diferentes cidades brasileiras. O objetivo é demonstrar como visualizações claras podem ajudar na definição de estratégias preventivas.
 
 🧠 Indicadores representados
 - Hipertensão
